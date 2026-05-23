@@ -1,2 +1,2 @@
-# Power Bi-sales-dashboard
+# excel-sales-dashboard
 Sales Dashboard project using Excel and Power BI
